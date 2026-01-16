@@ -1,23 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-
-
 # Online Library System
 
     A React-based online library management system built with Vite, Redux, and React Router. This application allows users to browse books by categories, search for books, view book details, and add new books to the library.
@@ -75,7 +55,7 @@ If you are developing a production application, we recommend using TypeScript wi
         - The app will open automatically at `http://localhost:5173`
         - Or manually navigate to the URL shown in the terminal
 
-## 📝 Project Requirements Implementation
+## 📝 Project Details
 
     ### 1. Home Page
     - Landing page with welcome message
@@ -111,11 +91,6 @@ If you are developing a production application, we recommend using TypeScript wi
     - User-friendly interface
     - Visually appealing layout
 
-    ### 7. Submission 
-    - GitHub repository with relevant commits
-    - README with installation instructions
-    - Comments in code for readability
-    - node_modules removed before submission
 
 ## 🔧 Available Scripts
 
@@ -166,28 +141,8 @@ If you are developing a production application, we recommend using TypeScript wi
     2. Verify only books from that category show
     3. Use "Back to All Books" to reset filter
 
-## 🤝 Contributing
 
-    1. Fork the repository
-    2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-    3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-    4. Push to branch (`git push origin feature/AmazingFeature`)
-    5. Open a Pull Request
-
-## 📄 License
-
-    This project was created for educational purposes as part of a React Project.
-
-## 🙏 Acknowledgments
-
-    - React documentation and community
-    - Bootstrap for styling components
-    - Vite for excellent development experience
-    - FontAwesome for icons
-
-
-**Note**: This project was submitted as Module 5 React Assignment. All requirements from the assignment specification have been implemented as outlined in the project brief.
-
+## 🗒️ Assignment Notes
 
 ### Commit History
 The GitHub repository includes at least 10 meaningful commits showing the development process:
@@ -210,22 +165,12 @@ The codebase includes comments explaining:
 - Form validation rules
 - Routing configurations
 
-### Submission Checklist
-- Project created with Vite
-- All requirements implemented
-- node_modules removed
-- README includes setup instructions
-- Code properly commented
-- Responsive design implemented
-- GitHub repository with commits
-- Redux state management used
-
 
 ## 📧 Contact
 
 Your Name - Sourav Banerjee 
 
-Project Link: https://github.com/souravbanerjee147/todo-app
+Project Link: https://github.com/souravbanerjee147/online-library-system-
 
 ## ⭐ Show your support
 
